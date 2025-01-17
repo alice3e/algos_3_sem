@@ -1,0 +1,22 @@
+Hash type: sha512, Encrypted rows: 48870, Time taken: 7.844882 seconds
+Hash type: blake2s, Encrypted rows: 48870, Time taken: 0.073260 seconds
+Hash type: sha256, Encrypted rows: 97740, Time taken: 3.836001 seconds
+Hash type: md5, Encrypted rows: 97740, Time taken: 3.629790 seconds
+Hash type: md5, Encrypted rows: 97740, Time taken: 4.613047 seconds
+Hash type: sha512, Encrypted rows: 97740, Time taken: 7.947781 seconds
+Hash type: sha256, Encrypted rows: 97740, Time taken: 3.834421 seconds
+Hash type: sha256, Encrypted rows: 97740, Time taken: 4.737976 seconds
+Hash type: sha1, Encrypted rows: 97740, Time taken: 10.171880 seconds
+Hash type: md5, Encrypted rows: 48870, Time taken: 3.598143 seconds
+Hash type: sha1, Encrypted rows: 146610, Time taken: 9.153374 seconds
+Hash type: sha512, Encrypted rows: 146610, Time taken: 16.446360 seconds
+Hash type: sha256, Encrypted rows: 146610, Time taken: 9.557642 seconds
+
+
+Salt length: 4, Hash type: sha256, Encrypted rows: 50000, Time taken: 3.845 seconds
+Salt length: 8, Hash type: sha256, Encrypted rows: 50000, Time taken: 3.857 seconds
+Salt length: 16, Hash type: sha256, Encrypted rows: 50000, Time taken: 3.849 seconds
+Salt length: 4, Hash type: md5, Encrypted rows: 50000, Time taken: 3.621 seconds
+Salt length: 8, Hash type: md5, Encrypted rows: 50000, Time taken: 3.630 seconds
+Salt length: 16, Hash type: md5, Encrypted rows: 50000, Time taken: 3.634 seconds
+
